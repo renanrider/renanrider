@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-10695
-Fork on GitHub
-2684
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Renan</h1>
 <h3 align="center">A passionate MERN and augmented reality developer from Brazil</h3>
 
