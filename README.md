@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renan</h1>
 <h3 align="center">A passionate MERN and augmented reality developer from Brazil</h3>
 
-- 🔭 I’m currently working on [XPLabo](https://xperiencexr.com/xplabo/)
+- 🔭 I’m currently working on personal project.
 
 - 🌱 I’m currently learning **Clean Architecture** and **Kubernetes**
 
