@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Renan</h1>
-<h3 align="center">A passionate MERN and augmented reality developer from Brazil</h3>
+<h1>Hi 👋, I'm Renan</h1>
+<h3>A passionate MERN and augmented reality developer from Brazil</h3>
 
 - 🔭 I’m currently working on personal project.
 
