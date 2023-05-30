@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://renandev.netlify.app/](https://renandev.netlify.app/)
 
-- 💬 Ask me about **Augmented reality, React, Redux, SEO, API**
+- 💬 Ask me about **Augmented reality, Web Development, SEO...**
 
 - 📫 How to reach me **renansmit90@gmail.com**
 
