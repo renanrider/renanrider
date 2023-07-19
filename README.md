@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on personal project.
 
-- 🌱 I’m currently learning **Clean Architecture** and **Kubernetes**
+- 👨‍💻 All of my projects are available at [https://renan-dev.netlify.app/](https://renan-dev.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://renandev.netlify.app/](https://renandev.netlify.app/)
-
-- 💬 Ask me about **Augmented reality, Web Development, SEO...**
+- 💬 Ask me about **Angular**, **React**, **NestJS**, **Augmented reality**, **Web Development**, **SEO...**
 
 - 📫 How to reach me **renansmit90@gmail.com**
 
