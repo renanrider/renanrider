@@ -10,9 +10,9 @@
 
 ## Blogs and Websites
 
-- ✍️ Wordpress Blog: Explore my articles on various topics at [Viajanet Blog](https://www.viajanet.com.br/blog/).
+- ✍️ Wordpress Blog: I create this WordPress blog [Viajanet Blog](https://www.viajanet.com.br/blog/).
 
-- 🌐 Wordpress Site: Visit my website [Gestor Certo](https://gestorcerto.com.br/) for valuable insights.
+- 🌐 Wordpress Site: I create this website [Gestor Certo](https://gestorcerto.com.br/) for valuable insights.
 
 ## Social Media Filters
 
