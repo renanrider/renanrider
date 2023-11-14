@@ -1,7 +1,29 @@
-<h1>Hi 👋, I'm Renan</h1>
+# Hi there! 👋 I'm Renan.
 
-- 🔭 I’m currently working on personal project.
+🔭 I’m currently working on personal projects and exploring new technologies.
 
-- 👨‍💻 All of my projects are available at [https://renan-dev.netlify.app/](https://renan-dev.netlify.app/)
+## Projects
 
-- 📫 How to reach me **renansmit90@gmail.com**
+- 🎮 Game Development: Check out my game [Cat Jump](https://play.google.com/store/apps/details?id=com.inhouseinteractive.catjump) on the Google Play Store.
+
+- 🌐 Augmented Reality Platform: I contribute to [XperienceXR](https://xperiencexr.com/xplabo/), a platform for immersive experiences.
+
+## Blogs and Websites
+
+- ✍️ Wordpress Blog: Explore my articles on various topics at [Viajanet Blog](https://www.viajanet.com.br/blog/).
+
+- 🌐 Wordpress Site: Visit my website [Gestor Certo](https://gestorcerto.com.br/) for valuable insights.
+
+## Social Media Filters
+
+- 😎 Social Media Filters: Have fun trying out my filters, like [El Chavo Del Ocho](https://www.facebook.com/fbcameraeffects/tryit/1061656780843125/).
+
+## Explore More
+
+- 👨‍💻 View all my projects on my portfolio: [Renan's Portfolio](https://renan-dev.netlify.app/).
+
+## Get in Touch
+
+- 📫 Reach me at **renansmit90@gmail.com**. Let's connect and collaborate!
+
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/renanneves/).
