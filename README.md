@@ -1,6 +1,6 @@
 # I'm Renan.
 
-🔭 I’m currently working on personal projects and exploring new technologies.
+Full Stack Developer with solid skills in frontend frameworks such as Angular and React. In addition to backend expertise with Node.js and NestJS. Specialized in building scalable applications, using modern technologies and best development practices. Solid skills in responsive design, ensuring efficient adaptability across multiple platforms and devices.
 
 ## Projects
 
