@@ -4,6 +4,8 @@ Full Stack Developer with solid skills in frontend frameworks such as Angular an
 
 ## Projects
 
+- Flutter App: Application with various user manuals for classic cars. [Manual de Carros](https://play.google.com/store/apps/details?id=com.inhouseinteractive.vehicle_manuals)
+  
 - Game Development: Check out my game [Cat Jump](https://play.google.com/store/apps/details?id=com.inhouseinteractive.catjump) on the Google Play Store.
 
 - Augmented Reality Platform: I contribute to [XperienceXR](https://xperiencexr.com/xplabo/), a platform for immersive experiences.
