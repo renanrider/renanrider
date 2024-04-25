@@ -1,8 +1,17 @@
-# Hello, my name is Renan.
 
-A Full Stack Developer with experience in creating web and mobile applications. Specialized in modern technologies and development best practices, such as Clean Architecture, Clean Code, SOLID principles, and Design Patterns. Proficient in TypeScript, JavaScript, and C#, with skills in frontend frameworks like Angular and React, as well as mobile development tools such as Flutter and Unity. Database expertise, including MongoDB and MySQL, and creation of APIs with Node.js and NestJS.
+<figure>
+  <a href="https://speak-well.app" target="_blank">
+    <img src="https://res.cloudinary.com/renanrider/image/upload/v1714049553/my-portfolio/speakwell-banner.png" alt="SpeakWwell"/>
+    </a>
+    <figcaption>Transform your English proficiency! Speakwell empowers you to communicate effectively and unlock endless possibilities.</figcaption>
+</figure>
 
-## View all my projects on my portfolio: [Renan's Portfolio](https://renan-dev.netlify.app/).
+
+# Hi, my name is Renan.
+
+A developer with experience in creating web and mobile applications. I like to create digital products.
+
+## View all my projects on my [portfolio](https://renan-dev.netlify.app/).
 
 ## Get in Touch
 
